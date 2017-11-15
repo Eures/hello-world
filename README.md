@@ -1,2 +1,2 @@
 # hello-world
-first project on Github!
+editing the read me!
